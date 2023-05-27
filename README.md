@@ -1,4 +1,4 @@
-# Project Dashboard
+# 🐍 Project Dashboard
 
 ## Description
 This project is a data dashboard created using Jupyter Notebook and Python. The dashboard provides interactive visualizations and insights based on a specific dataset. It aims to present the data in a user-friendly and informative way, allowing users to explore and analyze the underlying information effectively.
